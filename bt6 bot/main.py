@@ -6,7 +6,7 @@ from ace import test_colors_and_positions_ace
 from tackshooterfire import test_colors_and_positions_tack
 from spikefactory import test_colors_and_positions_spike
 
-mouse_speed = 0.01
+mouse_speed = 0.1
 
 tagshooter = [
     ((79, 213, 0), (280, 490), "1"),
